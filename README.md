@@ -2,7 +2,7 @@ Performance Analysis of Ski Lifts – Chairlift vs Gondola
 
 Simulation comparing efficiency of an 8-person chairlift and a 10-person gondola in transporting skiers. Focus on throughput, waiting time, and operational breaks over a 1-hour period.
 
-Note: The full implementation of this project is kept private. This repository contains the project description and results.
+> Note: The full implementation of this project is kept **private**. This repository contains the project description and results.
 
 Key Learnings
 
